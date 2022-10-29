@@ -1,0 +1,6 @@
+[submodule "bib"]
+	path = bib
+	url = https://github.com/tetrapharmakon/bib
+[submodule "fouche"]
+	path = fouche
+	url = https://github.com/tetrapharmakon/fouche
